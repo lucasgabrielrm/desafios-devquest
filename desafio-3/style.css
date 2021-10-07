@@ -1,12 +1,10 @@
 .paragrafo {
-    margin: 20px 0px;
-    /* Fiquei na dúvida se o espaçamento de 40px entre os parágrafos seria: 
-    20px do bottom de cima + 20px do top de baixo; ou 40px em cada um.  */
     padding: 20px;
 }
 
 .paragrafo-um {
     background-color: #F5F5F5;
+    margin-bottom: 40px;
 }
 
 .paragrafo-dois {
